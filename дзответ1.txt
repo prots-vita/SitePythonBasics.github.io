@@ -1,0 +1,15 @@
+<HTML>
+  <HEAD>
+      <TITLE> Python </TITLE>
+  </HEAD>
+  <BODY>
+   
+Задание №1<br>
+2, a, 8<br><br>
+Задание №2<br>
+print("1","2","3", "4","5", sep="-")<br>
+print("6","7","8", "9","10", sep=":")<br><br>
+Задание №3<br>
+print("x^2+12x+36=0")
+  </BODY>
+</HTML> 
